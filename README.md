@@ -5,7 +5,7 @@
 Following is a sample dataset structure that the program expects:
 ![image](https://user-images.githubusercontent.com/27827295/149410524-feb98dee-ad42-4966-9223-4b1ae8b943d2.png)
 
-- So, basically, the first column is your class label (defined as "label"). The rest of the columns are your dependent features of the dataset. For example, in this picture, there are 20 features denoted as A1 to A20. Note that, all the features are numerical features in the CSV file. If you have some categorical features, you have to perform One hot encoding/Label encoding to make them numbers, and then after you can run the program! Hope this helps.
+- So, basically, the first column is your class label (defined as "label"). The rest of the columns are the independent features of the dataset. For example, in this picture, there are 20 features denoted as A1 to A20. Note that, all the features are numerical features in the CSV file. If you have some categorical features, you have to perform One hot encoding/Label encoding to make them numbers, and then after you can run the program! Hope this helps.
 - A sample research publication where similar program was used: https://ieeexplore.ieee.org/abstract/document/9500351
 
 
